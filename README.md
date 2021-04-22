@@ -34,7 +34,7 @@ English | [简体中文](./README_zh.md)
 🔫 Tom Clancy's Rainbow Six Siege    🕘 18 hrs 8 mins
 💻 Wallpaper Engine                  🕘 1 hrs 45 mins
 🎮 Deus Ex: Mankind Divided™         🕘 0 hrs 37 mins
-🎮 A Dance of Fire and Ice           🕘 0 hrs 11 mins
+🎮 A Dance of Fire and Ice           🕘 0 hrs 10 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
