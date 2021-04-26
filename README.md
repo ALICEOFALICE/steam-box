@@ -33,7 +33,7 @@ English | [简体中文](./README_zh.md)
 ```text
 🔫 Tom Clancy's Rainbow Six Siege    🕘 25 hrs 7 mins
 💻 Wallpaper Engine                  🕘 1 hrs 45 mins
-🎮 Battlefield 1 ™                   🕘 0 hrs 1 mins
+🎮 Battlefield 1 ™                   🕘 0 hrs 17 mins
 🎮 A Dance of Fire and Ice           🕘 0 hrs 1 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
