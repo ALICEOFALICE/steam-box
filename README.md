@@ -31,7 +31,7 @@ English | [简体中文](./README_zh.md)
     <!-- steam-box start -->
 #### <a href="https://gist.github.com/1514a2e76fed77d7e54836282376cff6" target="_blank">🎮 最近我在玩…</a>
 ```text
-🔫 Tom Clancy's Rainbow Six Siege    🕘 27 hrs 36 mins
+🔫 Tom Clancy's Rainbow Six Siege    🕘 28 hrs 13 mins
 💻 Wallpaper Engine                  🕘 1 hrs 45 mins
 🎮 Battlefield 1 ™                   🕘 0 hrs 17 mins
 ```
