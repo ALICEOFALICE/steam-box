@@ -32,7 +32,7 @@ English | [简体中文](./README_zh.md)
 #### <a href="https://gist.github.com/1514a2e76fed77d7e54836282376cff6" target="_blank">🎮 最近我在玩…</a>
 ```text
 🔫 Tom Clancy's Rainbow Six Siege    🕘 19 hrs 32 mins
-🎮 Battlefield 1 ™                   🕘 0 hrs 17 mins
+🎮 Battlefield 1 ™                   🕘 0 hrs 4 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
