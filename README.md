@@ -31,10 +31,10 @@ English | [简体中文](./README_zh.md)
     <!-- steam-box start -->
 #### <a href="https://gist.github.com/1514a2e76fed77d7e54836282376cff6" target="_blank">🎮 最近我在玩…</a>
 ```text
-🔫 Tom Clancy's Rainbow Six Siege    🕘 1 hrs 36 mins
+🔫 Tom Clancy's Rainbow Six Siege    🕘 0 hrs 30 mins
 🔫 Counter-Strike: Global Offensive  🕘 2 hrs 35 mins
 💻 Wallpaper Engine                  🕘 0 hrs 54 mins
-🎮 Battlefield 1 ™                   🕘 1 hrs 11 mins
+🎮 Battlefield 1 ™                   🕘 1 hrs 56 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
