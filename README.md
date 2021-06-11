@@ -34,6 +34,7 @@ English | [简体中文](./README_zh.md)
 🔫 Tom Clancy's Rainbow Six Siege    🕘 2 hrs 4 mins
 🔫 Counter-Strike: Global Offensive  🕘 2 hrs 35 mins
 💻 Wallpaper Engine                  🕘 0 hrs 54 mins
+🎮 Battlefield 1 ™                   🕘 0 hrs 1 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
