@@ -35,7 +35,7 @@ English | [简体中文](./README_zh.md)
 🔫 Counter-Strike: Global Offensive  🕘 2 hrs 35 mins
 💻 Wallpaper Engine                  🕘 1 hrs 25 mins
 🎮 Battlefield 1 ™                   🕘 2 hrs 13 mins
-🎮 theHunter: Call of the Wild™      🕘 1 hrs 0 mins
+🎮 theHunter: Call of the Wild™      🕘 1 hrs 10 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
