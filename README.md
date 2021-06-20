@@ -32,7 +32,6 @@ English | [简体中文](./README_zh.md)
 #### <a href="https://gist.github.com/1514a2e76fed77d7e54836282376cff6" target="_blank">🎮 最近我在玩…</a>
 ```text
 🔫 Tom Clancy's Rainbow Six Siege    🕘 3 hrs 43 mins
-🔫 Counter-Strike: Global Offensive  🕘 0 hrs 16 mins
 💻 Wallpaper Engine                  🕘 1 hrs 15 mins
 🎮 Battlefield 1 ™                   🕘 2 hrs 13 mins
 🎮 theHunter: Call of the Wild™      🕘 1 hrs 10 mins
