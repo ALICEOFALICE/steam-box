@@ -33,7 +33,7 @@ English | [简体中文](./README_zh.md)
 ```text
 🔫 Tom Clancy's Rainbow Six Siege    🕘 6 hrs 57 mins
 💻 Wallpaper Engine                  🕘 0 hrs 30 mins
-🎮 Battlefield 1 ™                   🕘 0 hrs 41 mins
+🎮 Battlefield 1 ™                   🕘 0 hrs 28 mins
 🎮 theHunter: Call of the Wild™      🕘 1 hrs 20 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
