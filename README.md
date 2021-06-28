@@ -32,7 +32,7 @@ English | [简体中文](./README_zh.md)
 #### <a href="https://gist.github.com/1514a2e76fed77d7e54836282376cff6" target="_blank">🎮 最近我在玩…</a>
 ```text
 🔫 Tom Clancy's Rainbow Six Siege    🕘 5 hrs 31 mins
-💻 Wallpaper Engine                  🕘 0 hrs 28 mins
+💻 Wallpaper Engine                  🕘 0 hrs 12 mins
 🎮 Battlefield 1 ™                   🕘 0 hrs 28 mins
 🎮 theHunter: Call of the Wild™      🕘 1 hrs 20 mins
 🎮 MUSYNX                            🕘 0 hrs 5 mins
