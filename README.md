@@ -35,6 +35,7 @@ English | [简体中文](./README_zh.md)
 💻 Wallpaper Engine                  🕘 0 hrs 30 mins
 🎮 Battlefield 1 ™                   🕘 0 hrs 28 mins
 🎮 theHunter: Call of the Wild™      🕘 1 hrs 20 mins
+🎮 MUSYNX                            🕘 0 hrs 5 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
