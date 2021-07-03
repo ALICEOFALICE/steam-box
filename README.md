@@ -33,7 +33,7 @@ English | [简体中文](./README_zh.md)
 ```text
 🔫 Tom Clancy's Rainbow Six Siege    🕘 5 hrs 20 mins
 🎮 Battlefield 1 ™                   🕘 0 hrs 28 mins
-🎮 theHunter: Call of the Wild™      🕘 1 hrs 20 mins
+🎮 theHunter: Call of the Wild™      🕘 1 hrs 6 mins
 🎮 嗜血印 Bloody Spell                  🕘 1 hrs 7 mins
 🎮 MUSYNX                            🕘 0 hrs 5 mins
 ```
