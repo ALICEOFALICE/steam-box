@@ -35,7 +35,6 @@ English | [简体中文](./README_zh.md)
 🔫 Counter-Strike: Global Offensive  🕘 1 hrs 37 mins
 💻 Wallpaper Engine                  🕘 0 hrs 9 mins
 🎮 嗜血印 Bloody Spell                  🕘 1 hrs 25 mins
-🎮 MUSYNX                            🕘 0 hrs 5 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
