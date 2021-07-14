@@ -34,7 +34,7 @@ English | [简体中文](./README_zh.md)
 🔫 Tom Clancy's Rainbow Six Siege    🕘 0 hrs 29 mins
 🔫 Counter-Strike: Global Offensive  🕘 1 hrs 37 mins
 💻 Wallpaper Engine                  🕘 0 hrs 9 mins
-🎮 嗜血印 Bloody Spell                  🕘 1 hrs 25 mins
+🎮 嗜血印 Bloody Spell                  🕘 0 hrs 52 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
