@@ -33,7 +33,7 @@ English | [简体中文](./README_zh.md)
 ```text
 🔫 Tom Clancy's Rainbow Six Siege    🕘 4 hrs 5 mins
 🔫 Counter-Strike: Global Offensive  🕘 1 hrs 37 mins
-🎮 Rogue Company                     🕘 3 hrs 27 mins
+🎮 Rogue Company                     🕘 4 hrs 18 mins
 🎮 嗜血印 Bloody Spell                  🕘 0 hrs 18 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
