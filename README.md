@@ -33,6 +33,7 @@ English | [简体中文](./README_zh.md)
 ```text
 🔫 Tom Clancy's Rainbow Six Siege    🕘 5 hrs 44 mins
 🎮 Rogue Company                     🕘 4 hrs 42 mins
+🎮 Swaying Girl                      🕘 0 hrs 1 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
