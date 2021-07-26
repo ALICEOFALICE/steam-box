@@ -31,7 +31,7 @@ English | [简体中文](./README_zh.md)
     <!-- steam-box start -->
 #### <a href="https://gist.github.com/1514a2e76fed77d7e54836282376cff6" target="_blank">🎮 最近我在玩…</a>
 ```text
-🔫 Tom Clancy's Rainbow Six Siege    🕘 7 hrs 20 mins
+🔫 Tom Clancy's Rainbow Six Siege    🕘 7 hrs 41 mins
 🎮 Rogue Company                     🕘 4 hrs 42 mins
 🎮 Swaying Girl                      🕘 0 hrs 1 mins
 ```
