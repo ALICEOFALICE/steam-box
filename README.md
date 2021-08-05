@@ -32,7 +32,7 @@ English | [简体中文](./README_zh.md)
 #### <a href="https://gist.github.com/1514a2e76fed77d7e54836282376cff6" target="_blank">🎮 最近我在玩…</a>
 ```text
 🔫 Tom Clancy's Rainbow Six Siege    🕘 10 hrs 32 mins
-🎮 Rogue Company                     🕘 1 hrs 15 mins
+🎮 Rogue Company                     🕘 0 hrs 1 mins
 🎮 Swaying Girl                      🕘 0 hrs 1 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
