@@ -33,7 +33,6 @@ English | [简体中文](./README_zh.md)
 ```text
 🔫 Tom Clancy's Rainbow Six Siege    🕘 0 hrs 15 mins
 💻 Wallpaper Engine                  🕘 0 hrs 13 mins
-🎮 Among Us                          🕘 0 hrs 33 mins
 🎮 A Dance of Fire and Ice           🕘 0 hrs 2 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
