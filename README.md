@@ -31,8 +31,9 @@ English | [简体中文](./README_zh.md)
     <!-- steam-box start -->
 #### <a href="https://gist.github.com/1514a2e76fed77d7e54836282376cff6" target="_blank">🎮 最近我在玩…</a>
 ```text
-🔫 Tom Clancy's Rainbow Six Siege    🕘 9 hrs 17 mins
+🔫 Tom Clancy's Rainbow Six Siege    🕘 9 hrs 40 mins
 💻 Wallpaper Engine                  🕘 0 hrs 1 mins
+🎮 Battlefield™ 2042 Open Beta       🕘 0 hrs 17 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
