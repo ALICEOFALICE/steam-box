@@ -32,7 +32,7 @@ English | [简体中文](./README_zh.md)
 #### <a href="https://gist.github.com/1514a2e76fed77d7e54836282376cff6" target="_blank">🎮 最近我在玩…</a>
 ```text
 🔫 Tom Clancy's Rainbow Six Siege    🕘 7 hrs 43 mins
-💻 Wallpaper Engine                  🕘 0 hrs 28 mins
+💻 Wallpaper Engine                  🕘 0 hrs 53 mins
 🎮 Battlefield™ 2042 Open Beta       🕘 1 hrs 22 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
