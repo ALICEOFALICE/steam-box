@@ -33,7 +33,7 @@ English | [简体中文](./README_zh.md)
 ```text
 🔫 Tom Clancy's Rainbow Six Siege    🕘 3 hrs 51 mins
 💻 Wallpaper Engine                  🕘 0 hrs 52 mins
-🎮 Battlefield™ 2042 Open Beta       🕘 1 hrs 5 mins
+🎮 Battlefield™ 2042 Open Beta       🕘 1 hrs 1 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
